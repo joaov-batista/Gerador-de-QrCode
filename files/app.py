@@ -8,7 +8,7 @@ import io
 st.set_page_config(
     layout="centered",
     page_title="Gerador de QR Code",
-    page_icon="icone.png"
+    page_icon="files/icone.png"
 )
 
 st.title("Gerador de QR Code")  # Título da página
