@@ -6,7 +6,7 @@ Este é um projeto simples desenvolvido com **Python** e **Streamlit** para gera
 
 Acesse o projeto online clicando no link abaixo:
 
-🔗 **[Visualizar o Projeto](COLOQUE_O_LINK_AQUI)**
+🔗 **[Visualizar o Projeto](https://gerador-de-qrcode-u3vh7nslm2uax8dfgvaakz.streamlit.app/)**
 
 ## 📌 Funcionalidades
 
